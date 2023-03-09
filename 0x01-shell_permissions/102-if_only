@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty --from=CURRENT_OWNER:CURRENT_GROUP guillaume hello
+chown -h betty --from=CURRENT_OWNER:CURRENT_GROUP guillaume hello
