@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty --no-dereference guillaume hello
+chown root --no-dereference guillaume hello
