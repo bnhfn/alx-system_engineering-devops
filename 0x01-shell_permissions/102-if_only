@@ -1,2 +1,2 @@
 #!/bin/bash
-chown root --no-dereference guillaume hello
+chown betty --from=CURRENT_OWNER:CURRENT_GROUP guillaume hello
